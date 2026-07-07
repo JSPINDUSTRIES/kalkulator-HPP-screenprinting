@@ -3,13 +3,13 @@
 // Cache-first strategy untuk offline support
 // ============================================================
 
-const CACHE_NAME = "kalkulator-sablon-v2.2";
+const CACHE_NAME = "kalkulator-sablon-v2.4";
 
 const ASSETS_TO_CACHE = [
   "./",
   "./index.html",
-  "./style.css?v=21",
-  "./app.min.js?v=21",
+  "./style.css?v=24",
+  "./app.min.js?v=24",
   "./manifest.json",
   "./icons/icon-192.png",
   "./icons/icon-512.png",

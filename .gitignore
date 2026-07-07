@@ -1,0 +1,11 @@
+# !! JANGAN upload source asli ke GitHub !!
+# File ini berisi kode yang bisa dibaca — simpan di lokal saja
+app.js
+
+# Node modules (jika ada)
+node_modules/
+package-lock.json
+
+# OS files
+.DS_Store
+Thumbs.db
